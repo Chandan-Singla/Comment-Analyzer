@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Selected Text Summary",
+    "description": "Generates a summary of selected text using the OpenAI API.",
+    "version": "1.0.0",
+    "browser_action": {
+      "default_title": "Selected Text Summary",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "http://*/*",
+      "https://*/*"
+    ]
+  
+    
+  }
+  
