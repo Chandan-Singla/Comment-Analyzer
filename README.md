@@ -1,5 +1,6 @@
 # Ai-Based-Summary-Creator Chrome Extension
-Uses OpenAI to summarise text selected on webpage. It also genrates overall opinion of all comments on particular post on social media
+Tired of Reading long news articles or Reading Huge number of comments on social media posts.
+ This chrome extension uses OpenAI to summarise text selected on webpage. It also genrates overall opinion of all comments on particular post on social media
 Installation
 To install the extension, follow these steps:
 
