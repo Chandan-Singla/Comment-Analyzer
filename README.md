@@ -15,7 +15,8 @@ Select any text on a webpage that you want to summarize.
 Click on the extension icon in the Chrome toolbar.
 A popup window will appear with the summary of the selected text.
 
-![Screenshot 2023-03-06 190237](https://user-images.githubusercontent.com/102845667/223125898-3ef73a59-8e1f-4c40-a24f-f0c411097e36.png)
+![Screenshot 2023-03-07 141835](https://user-images.githubusercontent.com/102845667/223371821-89ebb21b-282b-4fc8-aa68-24f38c92e49e.png)
+
 
 
 Configuration
