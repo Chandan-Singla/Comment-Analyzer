@@ -19,13 +19,14 @@ Usage
 
 To use the extension, follow these steps:
 
-Select any text on a webpage that you want to summarize.
+Select any number of comments you need to analyze.
 
 Click on the extension icon in the Chrome toolbar.
 
 A popup window will appear with the summary of the selected text.
 
-![Screenshot 2023-03-07 141835](https://user-images.githubusercontent.com/102845667/223371821-89ebb21b-282b-4fc8-aa68-24f38c92e49e.png)
+![Screenshot 2023-05-04 230400](https://user-images.githubusercontent.com/102845667/236284454-6da16628-7df7-4a4c-a436-bd67a8213a1c.png)
+
 
 
 
